@@ -1,0 +1,1 @@
+# Resumo-seguran-a-e-identidade-no-Azure
